@@ -39,7 +39,7 @@ A simple backend service for reserving limited resources via a REST API.
 
 1. Clone the repository:
 ```bash
-git clone <repo-url>
+git clone https://github.com/lndrj/reservation_service-springboot/
 cd reservation_service
 ```
 
